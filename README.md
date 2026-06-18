@@ -1,3 +1,6 @@
+# Bolts as Anchors Animation
+<video src="teaser/Bolts_as_Anchors_animation.mp4" controls width="800"></video>
+
 # Docker Setup
 
 A `Dockerfile` is available in the `container/` folder.
