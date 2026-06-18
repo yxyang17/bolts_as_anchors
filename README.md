@@ -1,5 +1,5 @@
 # Bolts as Anchors Animation
-<video src="teaser/Bolts_as_Anchors_animation.mp4" controls width="800"></video>
+![Teaser](teaser/teaser.gif)
 
 # Docker Setup
 
